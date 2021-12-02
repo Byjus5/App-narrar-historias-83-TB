@@ -39,7 +39,7 @@ export default class CreateStory extends Component {
 						></Image>
 					</View>
 					<View style={styles.appTitleTextContainer}>
-						<Text style={styles.appTitleText}>New Story</Text>
+						<Text style={styles.appTitleText}>Nueva historia</Text>
 					</View>
 				</View>
 			</View>
